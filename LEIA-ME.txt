@@ -1,0 +1,1 @@
+para o menu game funcionar é necessário colocar a pasta Selectors Cut Final na área de trabalho, para o codigo reconhecer o diretório do Selector Cut.
